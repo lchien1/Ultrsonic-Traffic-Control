@@ -2,10 +2,10 @@
 
 Created by Lonnie Chien, Quinn Okabayashi, Cara Lee
 
-Design (description by Professor Maggie Delano)
+Design Challenge (description by Professor Maggie Delano):
 The T intersection appears as shown in the image below. Cars entering the intersection from the bottom (car in blue) may only make a right hand turn onto the street. Cars on the busier road (cars in red) can only go straight, either to the left or the right depending on the lane.  
 
-![[Image source](https://static.epermittest.com/media/filer_public/26/f3/26f320b9-af42-409d-8e4a-9d406b717c3d/2-right-of-way-at-uncontrolled-t-intersection.png)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c026802d-8242-417b-9ed9-d1722be0f05e/2-right-of-way-at-uncontrolled-t-intersection.png)
+![image](https://github.com/lchien1/Ultrsonic-Traffic-Control/assets/72617223/cb0aa6a2-82c0-487c-b139-880d96e9e426)
 
 [Image source](https://static.epermittest.com/media/filer_public/26/f3/26f320b9-af42-409d-8e4a-9d406b717c3d/2-right-of-way-at-uncontrolled-t-intersection.png)
 
